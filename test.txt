@@ -1,4 +1,2 @@
-hellow,world
-fuck
-12
-112
+hellow,worlld
+
